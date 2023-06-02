@@ -1,0 +1,21 @@
+What is a database? 
+    - A collection of data. 
+    - A method for accessing and manipulating the data. 
+
+Technical Jargon: Database vs Database Management System
+    
+    What is this exactly?
+        - These are 2 different things. 
+        - Let's say you have a dating app, and all your user information is stored in the database. 
+          The database is essentially a giant phonebook with all the information but it doesn't do anything by itself. 
+          This is where the Database management system comes in. 
+          It allows the app to access the database and manipulate information. 
+          It does the talking. 
+          You talk to the database management system and it talks to the database for us. 
+
+    Let's talk about MySQL vs SQL??? 
+
+        SQL is the language we use to "talk" to our databases.
+        When you work with MySQL, you actually WRITE SQL code all the time. 
+        
+By the end of Section 2, you should've installed MySQL as well as learned how to use the MySQL workbench and MySQL commandline. 
